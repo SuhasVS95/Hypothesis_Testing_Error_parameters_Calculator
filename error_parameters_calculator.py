@@ -21,8 +21,7 @@
 # 3. Get the calculated output of the required parameter.
 # 4. Repeat steps 1,2,3 for different parameters to be calculated continuing the code.
 # 5. When you wish to quit select "n".
-# 
-# **Note: To get a final summary of all the calculations of the parameters that you have done, click on the SUMMARY REPORT button.**
+
 
 
 # In[2]:
