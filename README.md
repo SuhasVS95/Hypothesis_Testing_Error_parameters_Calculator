@@ -1,6 +1,5 @@
-# Hypothesis_Testing_Error_parameters_Calculator
+# Hypothesis testing error parameters calculator(rror_param_cal)
 
-## error_param_cal
 
 Calculate any of the 6 parameters of the power of a test iteratively.
 The function will ask the user to specify the parameter to calulate and the user can terminate the current session with a simple y/n(i.e yes/no).
