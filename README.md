@@ -1,4 +1,4 @@
-# Hypothesis testing error parameters calculator(rror_param_cal)
+# Hypothesis testing error parameters calculator(error_param_cal)
 
 
 Calculate any of the 6 parameters of the power of a test iteratively.
