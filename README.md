@@ -1,5 +1,6 @@
 # Hypothesis testing error parameters calculator(error_param_cal)
 
+Link to pypi: https://pypi.org/project/error-param-cal/
 
 Calculate any of the 6 parameters of the power of a test iteratively.
 The function will ask the user to specify the parameter to calulate and the user can terminate the current session with a simple y/n(i.e yes/no).
